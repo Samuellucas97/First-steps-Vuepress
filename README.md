@@ -12,12 +12,12 @@ It is only simple personal website developed with Vuepress...
 npm i -g vuepress
 
 # Start local dev server
-vuepress dev portfolio
+vuepress dev
 ```
 
 ## Build
 
 ```bash
 # Build static files to .vuepress/dist
-vuepress build portfolio
+vuepress build
 ```
