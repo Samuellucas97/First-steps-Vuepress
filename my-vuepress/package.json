@@ -1,0 +1,16 @@
+{
+  "name": "my-vuepress",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"> <img src=\"https://avatars0.githubusercontent.com/u/26898930?s=460&u=667b90cb2f3c71c2d672994b31c6efb3f5029c4a&v=4\" width=\"30%\"> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:build": "vuepress build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^0.12.0"
+ }
+}
