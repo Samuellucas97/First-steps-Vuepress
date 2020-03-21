@@ -1,7 +1,7 @@
 # Hello, I am Samuel!
 
 <p align="center">
-<img style="border-radius: 50px;" src="https://avatars0.githubusercontent.com/u/26898930?s=460&u=667b90cb2f3c71c2d672994b31c6efb3f5029c4a&v=4" width="30%">
+<img style="border-radius: 50px; box-shadow:0 10px 20px;" src="https://avatars0.githubusercontent.com/u/26898930?s=460&u=667b90cb2f3c71c2d672994b31c6efb3f5029c4a&v=4" width="30%">
 </p>
 
 
