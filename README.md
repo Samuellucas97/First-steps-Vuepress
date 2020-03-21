@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/17c684d4-c021-4a8d-b1e2-3e05c9cdc8dc/deploy-status)](https://app.netlify.com/sites/samuellucas97/deploys)  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a7fdb21a-fa84-4407-9dce-103f07eac2f2/deploy-status)](https://app.netlify.com/sites/samuelferino/deploys)
 
 It is only simple personal website developed with Vuepress...
 
