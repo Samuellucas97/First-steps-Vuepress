@@ -2,7 +2,7 @@
 
 It is only simple personal website developed with Vuepress...
 
-# Informations
+# How to run
 
 
 ## Development
